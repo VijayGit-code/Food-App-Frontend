@@ -6,7 +6,7 @@ import Placeorder from './pages/placeorder/Placeorder'
 import Cart from './pages/cart/Cart'
 import Fooder from './components/Footer/Footer'
 import Logginpop from './components/Logginpop/Logginpop'
-import Verify from './pages/verify/Verify'
+import Verify from './pages/Verify/Verify'
 import Myorders from './pages/Myoders/Myorders'
  
  
